@@ -11,7 +11,8 @@
 <a name="language">**语言篇**</a>  
 
 <a name="android">[UI基础](http://blog.csdn.net/sinat_21102069)</a>  
-<a name="mvp">[MVP架构](http://blog.csdn.net/u010456903/article/details/53439254)</a>
+<!--<a name="mvp">[MVP架构](http://blog.csdn.net/u010456903/article/details/53439254)</a>-->
+<a name="mvp+rxjava+retrofit">[MVP+Rxjava+Retrofit架构](https://www.jianshu.com/p/7b839b7c5884)</a>
 
 <a name="tool">**工具篇**</a>
 
